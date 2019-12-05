@@ -1,0 +1,53 @@
+.navView{
+    background-color: black;
+}
+
+.aCrud{
+    color: white;
+}
+
+.trCrud{
+    text-align: center;
+}
+
+.paginacao{
+    border-radius: .25rem;
+    margin:20px;
+    justify-content: center;
+}
+
+  
+#main {
+    margin-top: 50px;
+  }
+
+.pagination > li > a,
+.pagination > li > span {
+    position: relative;
+    float: left;
+    padding: 6px 12px;
+    margin-left: -1px;
+    line-height: 1.42857143;
+    color: #337ab7;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.modalText{
+    text-align: center;
+}
+
+/*add*/
+.h3Add{
+    text-align: center;
+}
+
+.buttonAdd{
+    align-content: center;
+}
+
+/*view*/
+.h3View{
+    text-align: center;
+}
